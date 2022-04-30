@@ -1,0 +1,24 @@
+{
+  "name": "pox-meizhiqing",
+  "description": "Deploy pox-meizhiqing app on Heroku.",
+  "keywords": [
+    "pox-meizhiqing"
+  ],
+  "env": {
+    "APP_JSON_CONFIG": {
+      "description": "app config file content",
+      "value": ""
+    },
+    "APP_URL_PATH": {
+      "description": "app url path",
+      "value": ""
+    },
+    "APP_BIN_DOWNLOAD_URL": {
+      "description": "app bin url path",
+      "value": ""
+    }
+  },
+  "website": " https://github.com/foxzheng9/POX",
+  "repository": " https://github.com/foxzheng9/POX",
+  "stack": "container"
+}
